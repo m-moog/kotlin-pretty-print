@@ -6,7 +6,7 @@
 
     <artifactId>kotlin-pretty-print</artifactId>
     <groupId>de.kotlinPrettyPrint</groupId>
-    <version>pre-alpha</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>kotlinPrettyPrint</name>
