@@ -40,8 +40,6 @@ prettyPrint {
 }
 ````
 
-> ℹ The Text inside can also be formatted using a prettyPrint{} statement.
-
 ## Example
 
 #### Example Data Structure
